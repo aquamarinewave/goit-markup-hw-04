@@ -526,7 +526,7 @@ img {
 
 .portfolio-item {
   flex-basis: calc(
-    (100% - var(--indent-portfolio) * (var(--items-portfolio) -1)) / var(--items-portfolio)
+    (100% - var(--indent-portfolio) * (var(--items-portfolio) - 1)) / var(--items-portfolio)
   );
 }
 
