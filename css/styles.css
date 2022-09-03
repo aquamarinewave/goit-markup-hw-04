@@ -272,6 +272,8 @@ img {
 }
 
 .benafit-icon-container {
+  width: 270px;
+  height: 120px;
   margin-bottom: 30px;
   padding: 25px 100px;
   background-color: var(--submain-bg-color);
@@ -389,9 +391,13 @@ img {
   justify-content: center;
 }
 
-.clients-list-link {
+.clients-list-item {
   width: 170px;
   height: 92px;
+}
+
+.clients-list-link {
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
